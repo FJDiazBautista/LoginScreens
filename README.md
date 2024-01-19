@@ -17,7 +17,7 @@ In each "login_screenX.dart" file, you will find everything related to the scree
 <img src="Login%20Screen%20Animated%20Example%203.png" height="500em" />
 
 - #### Login Screen Animated Example 4
-<img src="Login%20Screen%20Animated%20Example%204" height="500em" />
+<img src="Login%20Screen%20Animated%20Example%204.png" height="500em" />
 
 - #### Login Screen Carousel Example 5
 <img src="Login%20Screen%20Carousel%20Example%205 SignUp.png" height="500em" />
