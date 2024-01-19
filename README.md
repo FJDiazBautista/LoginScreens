@@ -1,4 +1,4 @@
-# Flutter - Simple and Elegant Login Screens
+# Flutter - Simple and Elegant Login Screens Designed For Mobile Apps
 
 This project is a compilation of 5 simple and elegantly designed login screens created with Flutter.
 In each "login_screenX.dart" file, you will find everything related to the screen, except for "gradient_button.dart" and "util.dart" (which contains the title displayed on each screen).
